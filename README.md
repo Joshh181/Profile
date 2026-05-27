@@ -64,7 +64,7 @@ motto: "Turning ideas into real-world solutions"
       </pre>
     </td>
     <td width="45%" valign="middle" align="center" border="0">
-      <img alt="Coding" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJqbXNseDc3djR5ZDF3YjE3NW5qZDA3c2s3Zmd2YXJhNW9nZXZpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQHtASL5mC8cKPyfSU/giphy.gif" />
+      <img alt="Coding" width="380" src="https://media.giphy.com/media/tQHtASL5mC8cKPyfSU/giphy.gif" />
     </td>
   </tr>
 </table>
@@ -125,8 +125,6 @@ motto: "Turning ideas into real-world solutions"
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 &nbsp;Featured Projects
-
-
 
 <div align="center">
 
@@ -205,13 +203,9 @@ motto: "Turning ideas into real-world solutions"
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
-
-
-
 </div>
 
 ---
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           CONTRIBUTION SNAKE                              -->
@@ -230,4 +224,3 @@ motto: "Turning ideas into real-world solutions"
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
