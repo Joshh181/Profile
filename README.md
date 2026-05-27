@@ -250,4 +250,3 @@ motto: "Turning ideas into real-world solutions"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ 
-
