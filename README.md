@@ -1,1 +1,278 @@
-# Profile
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✦  JOSHUA LUMACTOD  ✦                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=220&section=header&text=Joshua%20Lumactod&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Developer%20%7C%20Student%20%7C%20Builder&descSize=18&descAlignY=55&animation=fadeIn" />
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Joshua!;%F0%9F%92%BB+Building+cool+things+with+code;%F0%9F%8E%A8+Designing+beautiful+experiences;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<a href="https://github.com/Joshh181">
+  <img src="https://komarev.com/ghpvc/?username=Joshh181&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/Joshh181?tab=followers">
+  <img src="https://img.shields.io/github/followers/Joshh181?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1b27" alt="GitHub Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/Joshh181?tab=repositories">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-EC4899?style=for-the-badge&labelColor=1a1b27" alt="Open to Collaborate" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+name: Joshua Lumactod
+location: Pangasinan, Philippines 🇵🇭
+education: BS Information Technology (2024 - Present)
+role: Aspiring Developer & Student
+
+currently_learning:
+  - Flutter & Mobile Development
+  - Backend Systems with PHP
+  - UI/UX Design with Figma
+  - React Native
+
+interests:
+  - Building practical applications
+  - 3D Modeling & Design
+  - Problem Solving
+  - Open Source
+
+hobbies: ["🎮 Gaming", "🍔 Foodie", "🔭 Tech Explorer"]
+motto: "Turning ideas into real-world solutions"
+```
+
+<br clear="both"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🎨 Design & Creative
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+</p>
+
+### 🔧 Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          FEATURED PROJECTS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://joshua-lumactod.vercel.app/">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Portfolio-web&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://whack-a-mole-theta-one.vercel.app">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Whack-a-Mole&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🔧 Tech | 🔗 Link |
+|:---:|:---:|:---:|:---:|
+| **Portfolio Website** | Personal portfolio showcasing projects & skills | `HTML` `CSS` `JS` | [Live Demo](https://joshua-lumactod.vercel.app/) |
+| **Whack-a-Mole** | Engaging mobile game with smooth touch controls | `Flutter` `Supabase` | [Play Now](https://whack-a-mole-theta-one.vercel.app) |
+| **E-Commerce App** | Full-featured online store with cart & checkout | `Flutter` `Supabase` | Coming Soon |
+| **3D Designs** | Creative 3D models for various purposes | `Blender` | Portfolio |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<!-- Stats Card + Streak side by side -->
+<a href="https://github.com/Joshh181">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joshh181&show_icons=true&theme=radical&border_color=A855F7&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Joshh181">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshh181&theme=radical&border=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7&border_radius=12" />
+</a>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/Joshh181">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshh181&layout=compact&theme=radical&border_color=A855F7&border_radius=12&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Joshh181">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshh181&custom_title=Joshua's%20Contribution%20Graph&bg_color=141321&color=A855F7&line=EC4899&point=FFFFFF&area_color=6C63FF&area=true&hide_border=false&border_color=A855F7&border_radius=12" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         NOW PLAYING SPOTIFY                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🎧 &nbsp;Vibing To
+
+<div align="center">
+
+<!-- Replace YOUR_VERCEL_URL with your spotify-github-profile deployment -->
+<!-- Setup guide: https://github.com/kittinan/spotify-github-profile -->
+<a href="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=141321&interchange=true&bar_color=A855F7&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
+
+> 🎵 _Connect your Spotify to show what you're listening to!_
+>
+> **Setup:** Visit [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_ID` above with your actual Spotify user ID.
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT WITH ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp;Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Joshh181" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/Josh.stellarr" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+&nbsp;
+<a href="mailto:josh.lumactod16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://joshua-lumactod.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<!-- Fun quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TROPHY                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joshh181&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           CONTRIBUTION SNAKE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <b>⭐ If you find my work interesting, consider giving a star! ⭐</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-EC4899?style=for-the-badge&labelColor=1a1b27" />
+</div>
