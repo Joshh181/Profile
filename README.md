@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=220&section=header&text=Joshua%20Lumactod&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Developer%20%7C%20Student%20%7C%20Builder&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="banner.png" alt="Joshua Lumactod" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -152,7 +152,7 @@ motto: "Turning ideas into real-world solutions"
 
 <!-- 3D Contribution Graph -->
 <a href="https://github.com/Joshh181">
-  <img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
+  <img width="70%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
 </a>
 
 </div>
