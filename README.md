@@ -40,7 +40,7 @@
 
 <table border="0" width="100%">
   <tr border="0">
-    <td width="50%" valign="top" border="0">
+    <td width="55%" valign="top" border="0">
       <pre lang="yaml">
 name: Joshua Lumactod
 location: Pangasinan, Philippines 🇵🇭
@@ -63,8 +63,8 @@ hobbies: ["🎮 Gaming", "🍔 Foodie", "🔭 Tech Explorer"]
 motto: "Turning ideas into real-world solutions"
       </pre>
     </td>
-    <td width="50%" valign="middle" align="center" border="0">
-      <img alt="Coding" width="460" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif" />
+    <td width="45%" valign="middle" align="center" border="0">
+      <img alt="Coding" width="480" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif" />
     </td>
   </tr>
 </table>
