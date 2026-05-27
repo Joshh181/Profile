@@ -64,7 +64,7 @@ motto: "Turning ideas into real-world solutions"
       </pre>
     </td>
     <td width="45%" valign="middle" align="center" border="0">
-      <img alt="Coding" width="380" src="https://c.tenor.com/YnrSTwaALN4AAAAC/tenor.gif" />
+      <img alt="Coding" width="380" src="https://c.tenor.com/YnrSTwaALN4AAAAM/tenor.gif" />
     </td>
   </tr>
 </table>
