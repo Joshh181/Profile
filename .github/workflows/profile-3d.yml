@@ -19,40 +19,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Inject purple borders into SVGs
-        run: |
-          cat << 'EOF' > inject-border.js
-          const fs = require('fs');
-          const path = require('path');
-          const dir = 'profile-3d-contrib';
-          if (fs.existsSync(dir)) {
-            fs.readdirSync(dir).forEach(file => {
-              if (file.endsWith('.svg')) {
-                const filepath = path.join(dir, file);
-                let content = fs.readFileSync(filepath, 'utf8');
-                const widthMatch = content.match(/width="([^"]+)"/);
-                const heightMatch = content.match(/height="([^"]+)"/);
-                if (widthMatch && heightMatch) {
-                  const w = parseFloat(widthMatch[1]);
-                  const h = parseFloat(heightMatch[1]);
-                  const strokeWidth = 6;
-                  const pad = strokeWidth / 2;
-                  const rw = w - strokeWidth;
-                  const rh = h - strokeWidth;
-                  const borderRect = `\n  <rect x="${pad}" y="${pad}" width="${rw}" height="${rh}" rx="12" ry="12" fill="none" stroke="#A855F7" stroke-width="${strokeWidth}" />\n</svg>`;
-                  content = content.replace(/<\/svg>\s*$/, borderRect);
-                  fs.writeFileSync(filepath, content, 'utf8');
-                  console.log(`Injected border into ${file}`);
-                }
-              }
-            });
-          }
-          EOF
-          node inject-border.js
-          rm inject-border.js
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "Generated 3D contribution graph with matching purple border"; then git push; fi
+          if git commit -m "Generated 3D contribution graph"; then git push; fi
