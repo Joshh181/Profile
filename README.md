@@ -122,12 +122,12 @@ motto: "Turning ideas into real-world solutions"
 
 <div align="center">
 
-<a href="https://joshua-lumactod.vercel.app/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Portfolio-web&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
+<a href="https://github.com/Joshh181/Nexa">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Nexa&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://whack-a-mole-theta-one.vercel.app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Whack-a-Mole&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Whack-A-Mole-2&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
 </a>
 
 </div>
@@ -222,10 +222,8 @@ motto: "Turning ideas into real-world solutions"
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
-<br/><br/>
 
-<!-- Fun quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
 
 </div>
 
@@ -239,9 +237,9 @@ motto: "Turning ideas into real-world solutions"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake-dark.svg" />
 </picture>
 
 </div>
