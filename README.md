@@ -64,7 +64,7 @@ motto: "Turning ideas into real-world solutions"
       </pre>
     </td>
     <td width="45%" valign="middle" align="center" border="0">
-      <img alt="Coding" width="480" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif" />
+      <img alt="Coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFkMHk3aXZ0OXllYmVwbGk4bTFvYWp0djVycDhvZjNxYmxibmcwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" />
     </td>
   </tr>
 </table>
